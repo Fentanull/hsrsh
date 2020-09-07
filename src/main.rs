@@ -1,5 +1,5 @@
 /*
-__   __  _______  ______    _______  __   __
+ __   __  _______  ______    _______  __   __
 |  | |  ||       ||    _ |  |       ||  | |  |
 |  |_|  ||  _____||   | ||  |  _____||  |_|  |
 |       || |_____ |   |_||_ | |_____ |       |
@@ -11,6 +11,8 @@ __   __  _______  ______    _______  __   __
 
 gr33tz:
     - Thugcrowd
+    - VX-Underground
+    - TCP Direct
     - Stack Overflow
     - BLM. FDT.
     - MagicalBitcoin for porting libtor to Rust
